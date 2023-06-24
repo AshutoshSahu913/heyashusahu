@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshsahu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA with Java
+- 🌱 I’m currently learning Android Development and DSA with Java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
